@@ -15,10 +15,10 @@ metadata:
   repository_url: https://github.com/quantskills/skill-disclosure-event-extractor
   project_type: skill
   collection: disclosure-event-extractor
-  creator: GITHUB_USERNAME_TODO
-  creator_url: https://github.com/GITHUB_USERNAME_TODO
-  maintainer: GITHUB_USERNAME_TODO
-  maintainer_url: https://github.com/GITHUB_USERNAME_TODO
+  creator: 13817660341-coder
+  creator_url: https://github.com/13817660341-coder
+  maintainer: 13817660341-coder
+  maintainer_url: https://github.com/13817660341-coder
 quantSkills:
   project_type: skill
   category: information-search
